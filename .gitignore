@@ -1,0 +1,4 @@
+config.php
+google_config.php
+*.log
+temp_reports/
